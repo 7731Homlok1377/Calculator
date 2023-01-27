@@ -1,0 +1,32 @@
+C:\Users\Olga\Desktop\Calculator\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\Olga\Desktop\Calculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\Olga\Desktop\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\Olga\Desktop\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\Olga\Desktop\Calculator\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\Olga\Desktop\Calculator\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Users\Olga\Desktop\Calculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\Olga\Desktop\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Olga\Desktop\Calculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\Desktop\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Olga\Desktop\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\Olga\Desktop\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\Calculator\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\Olga\Desktop\Calculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Users\Olga\Desktop\Calculator\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\Olga\Desktop\Calculator\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\obj\Debug\net5.0\refint\Calculator.dll
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
+C:\Users\Olga\Desktop\1 курс\Прога старое\Calculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
